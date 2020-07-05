@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>SJLI/JLPT Flash Cards</title>
+        <meta charset="utf-8">
+        <meta property="og:title" content="SJLI/JLPT Flash Cards"/>
+        <meta property="og:type" content="application"/>
+        <meta property="og:image" content=""/>
+        <!-- <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"> -->
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+        <style type="text/css">
+          .main-content {
+            width: 500px;
+            height: 300px;
+            margin: 0 auto;
+            outline: 2px solid red;
+          }
+          .main-content button {
+            outline: 1px solid blue;
+            cursor: pointer;
+          }
+          .main-content button:hover {
+            background: blue;
+            cursor: pointer;
+          }
+        </style>
+    </head>
+    <body>
+      <div class="main-content">
+        <div><img src="https://placem.at/people?w=500&h=300" /></div>
+        <div><img src="https://placem.at/place?w=500&h=300" /></div>
+        <div><img src="https://placem.at/things?w=500&h=300" /></div>
+        <div><img src="https://placem.at/people?w=500&h=300" /></div>
+        <div><img src="https://placem.at/place?w=500&h=300" /></div>
+        <div><img src="https://placem.at/things?w=500&h=300" /></div>
+        <div><img src="https://placem.at/people?w=500&h=300" /></div>
+        <div><img src="https://placem.at/place?w=500&h=300" /></div>
+        <div><img src="https://placem.at/things?w=500&h=300" /></div>
+        <div><img src="https://placem.at/people?w=500&h=300" /></div>
+        <div><img src="https://placem.at/place?w=500&h=300" /></div>
+        <div><img src="https://placem.at/things?w=500&h=300" /></div>
+        <div><img src="https://placem.at/people?w=500&h=300" /></div>
+        <div><img src="https://placem.at/place?w=500&h=300" /></div>
+        <div><img src="https://placem.at/things?w=500&h=300" /></div>
+        <div><img src="https://placem.at/people?w=500&h=300" /></div>
+        <div><img src="https://placem.at/place?w=500&h=300" /></div>
+        <div><img src="https://placem.at/things?w=500&h=300" /></div>
+      </div>
+
+      <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+      <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+      <script type="text/javascript">
+        $(document).ready(function(){
+          $('.main-content').slick({
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            infinite: true,
+            autoplay: true,
+            autoplaySpeed: 1000,
+            centerMode: true,
+            speed: 200,
+            fade: true,
+            cssEase: 'linear'
+          });
+        });
+      </script>
+    </body>
+</html>
