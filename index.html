@@ -6,13 +6,21 @@
         <meta property="og:title" content="SJLI/JLPT Flash Cards"/>
         <meta property="og:type" content="application"/>
         <meta property="og:image" content=""/>
-        <!-- <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"> -->
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
         <style type="text/css">
+          /* Structural */
+          figure {
+            display: block;
+            margin: 0;
+          }
+          .main-content,
+          .content-wrapper {
+            height: 300px;
+          }
           .main-content {
             width: 500px;
-            height: 300px;
             margin: 0 auto;
             outline: 2px solid red;
           }
@@ -24,29 +32,319 @@
             background: blue;
             cursor: pointer;
           }
+          .content-wrapper {
+            position: relative;
+            display: block;
+            text-align: center;
+          }
+          .content-wrapper .spacer,
+          .content-wrapper .content-block {
+            display: inline-block;
+            width: initial;
+            height: initial;
+            vertical-align: middle;
+          }
+          .content-wrapper .spacer {
+            height: 100%;
+            width: 0;
+          }
+
+          /* Content Aesthetics */
+          .main-content {
+            background: #ffffff;
+          }
+          .main-content .meishi {
+            background: #fdf100;
+          }
+          .main-content .doushi {
+            background: #92d14f;
+          }
+          .main-content .keiyoushi {
+            background: #73c6db;
+          }
+          .main-content .na-ni-de-meishi {
+            background: #edc6a5;
+          }
+          .main-content .ji-suushi {
+            background: #d883aa;
+          }
+          .main-content .fukuishi {
+            background: #bfbfbf;
+          }
+          .main-content .suru-meishi {
+            background: #f4c582; /* Old browsers */
+            background: -moz-linear-gradient(45deg,  #f4c582 0%, #92d14f 100%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(45deg,  #f4c582 0%,#92d14f 100%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(45deg,  #f4c582 0%,#92d14f 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4c582', endColorstr='#92d14f',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+          }
+          .hiragana,
+          .katakana,
+          .kana {
+            font-size: 4em;
+          }
+          .kanji {
+            font-size: 6em;
+          }
+
         </style>
     </head>
     <body>
-      <div class="main-content">
-        <div><img src="https://placem.at/people?w=500&h=300" /></div>
-        <div><img src="https://placem.at/place?w=500&h=300" /></div>
-        <div><img src="https://placem.at/things?w=500&h=300" /></div>
-        <div><img src="https://placem.at/people?w=500&h=300" /></div>
-        <div><img src="https://placem.at/place?w=500&h=300" /></div>
-        <div><img src="https://placem.at/things?w=500&h=300" /></div>
-        <div><img src="https://placem.at/people?w=500&h=300" /></div>
-        <div><img src="https://placem.at/place?w=500&h=300" /></div>
-        <div><img src="https://placem.at/things?w=500&h=300" /></div>
-        <div><img src="https://placem.at/people?w=500&h=300" /></div>
-        <div><img src="https://placem.at/place?w=500&h=300" /></div>
-        <div><img src="https://placem.at/things?w=500&h=300" /></div>
-        <div><img src="https://placem.at/people?w=500&h=300" /></div>
-        <div><img src="https://placem.at/place?w=500&h=300" /></div>
-        <div><img src="https://placem.at/things?w=500&h=300" /></div>
-        <div><img src="https://placem.at/people?w=500&h=300" /></div>
-        <div><img src="https://placem.at/place?w=500&h=300" /></div>
-        <div><img src="https://placem.at/things?w=500&h=300" /></div>
-      </div>
+      <header></header>
+      <main class="wrappper">
+        <section class="main-content">
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">いく</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">くる</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">たべる</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">のむ</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">きる</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">はく</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">ぬぐ</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">ならう</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">する</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">いう</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="doushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">よぶ</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">おいしい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">まずい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">やす</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">なかい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">おおきい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">さいさい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">やさしい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">むずかし</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">あつい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">さむい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">ながい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">みじかし</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">いい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">わるい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">おもしろ</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">つまらない</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">あならしい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">ふるい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">あたたかい</span>
+              </div>
+            </div>
+          </figure>
+          <figure class="keiyoushi">
+            <div class="content-wrapper">
+              <div class="spacer"></div>
+              <div class="content-block">
+                <span class="hiragana">すずしい</span>
+              </div>
+            </div>
+          </figure>
+        </section>
+      </main>
+      <footer><small>made with <a href="http://kenwheeler.github.io/slick/">Slick</a></small></footer>
 
       <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
       <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
@@ -58,9 +356,9 @@
             slidesToScroll: 1,
             infinite: true,
             autoplay: true,
-            autoplaySpeed: 1000,
+            autoplaySpeed: 5000,
             centerMode: true,
-            speed: 200,
+            speed: 300,
             fade: true,
             cssEase: 'linear'
           });
