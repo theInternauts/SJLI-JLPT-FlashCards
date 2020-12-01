@@ -1,0 +1,667 @@
+Flash Card Data
+
+============================================
+The process:
+1. English word followed by a comma
+2. hiragana word; then carriage return
+3. upload into Quzlet
+4. update each item and add (kanji) to defn side.
+5. Back-record the kanji to the this CSV data sheet
+6. Save all the things
+============================================
+---> Kanji Set 1.x
+一,いち
+二,に
+三,さん
+四,よん
+五,ご
+六,ろく
+七,なな
+八,はち
+九,きゅう
+十,じゅう
+百,ひゃく
+千,せん
+万,まん
+寸,すん
+尺,しゃく
+日,ひ sun
+月,つき moon
+火,ひ fire
+水,みず water
+木,き tree
+金,かね money
+土,つち soil
+山,やま mountain
+川,かわ river
+田,た rice paddy
+石,いし stone
+穴,あな hole
+雨,あめ rain
+風,かぜ wind
+音,おと sound
+夕,ゆう evening
+方,かた how to
+米,こめ rice
+竹,たけ bamboo
+豆,まめ bean
+上,うえ top, above
+中,なか inside
+下,した below
+右,みぎ right
+左,ひだり left
+本,ほん book
+頁,ページ page
+
+一つ,ひとつ
+二つ,ふたつ
+三つ,みっつ
+四つ,よっつ
+五つ,いつつ
+六つ,むっつ
+七つ,ななつ
+八つ,やっつ
+九つ,ここのつ
+一月,いちがつ
+二月,にがつ
+三月,さんがつ
+四月,よんがつ
+五月,ごがつ
+六月,ろくがつ
+七月,なながつ
+八月,はちがつ
+九月,くがつ
+十月,じゅうがつ
+十一月,じゅういちがつ
+十二月,じゅうにがつ
+日曜日,にちようび
+月曜日,げつようび
+火曜日,かようび
+水曜日,すいようび
+木曜日,もくようび
+金曜日,きにょうび
+土曜日,どようび
+方向,ほうこ direction
+本,もと base
+
+
+============================================
+---> Kanji Set 2.2 - P45 English - Hiragana
+morning,あさ (朝)
+breakfast,ちょうしょく（朝食）
+noon,ひる（昼）
+lunch,ちゅうしょく（昼食）
+dinner,ばんごはん（晩ごはん）
+night,よる (夜)
+tonight,こんや（今夜）
+age,とし (年)
+next year,らいねん（来年）
+now,いま (今)
+today,きょう（今日）
+this month,こんげつ（今月）
+this year,ことし（今年）
+bright,あかるい（明るい）
+tomorrow,あした（明日）
+civilization,ぶんめい（文明）
+yesterday,きのう（昨日）
+last year,さくねん（昨年）
+to leave,さる（去る）
+last year,きょねん（去年）
+past,かこ（過去）
+everyday,まいにち (毎日)
+last week,せんしゅう（先週）
+to understand,わかる (分かる)
+to divide,わける（分ける）
+5 minutes,ごふん（五分）
+6 minutes,ろっぷん (六分)
+a.m.,ごぜん（午前）
+before/front,まえ (前)
+before/after/front/rear/back/forth,ぜんご （前後）
+after/later,あと （後）
+behind/back,うしろ (後ろ)
+afternoon,ごご (午後)
+the last half,こうはん（後半）
+half/middle,なかば（半ば）
+half past five,ごじはん（五時半）
+
+
+---> Kanji Set 2.2 - P45 Hiragana - Kanji
+あさ,朝 (morning)
+ちょうしょく,朝食 (breakfast)
+ひる,昼 (noon)
+ちゅうしょく,昼食 (lunch)
+ばんごはん,晩ごはん (dinner)
+よる,夜 (night)
+こんや,今夜 (tonight)
+とし,年 (age)
+らいねん,来年 (next year)
+いま,今 (now)
+きょう,今日 (today)
+こんげつ,今月 (this month)
+ことし,今年 (this year)
+あかるい,明るい (bright)
+あした,明日 (tomorrow)
+ぶんめい,文明 (civilization)
+きのう,昨日 (yesterday)
+さくねん,昨年 (last year)
+さる,去る (to leave)
+きょねん,去年 (last year)
+かこ,過去 (past)
+まいにち,毎日 (everyday)
+せんしゅう,先週 (last week)
+わかる,分かる (to understand)
+わける,分ける (to divide)
+ごふん,五分 (5 minutes)
+ろっぷん,六分 (6 minutes)
+ごぜん,午前 (a.m.)
+まえ,前 (before/front)
+ぜんご,前後 (before/after/front/rear/back/forth)
+あと,後 (after/later)
+うしろ,後ろ (behind/back)
+ごご,午後 (afternoon)
+こうはん,後半 (the last half)
+なか,半ば (half/middle)
+ごじはん,五時半 (half past five)
+
+
+---> Kanji Set 2.2 - P45 Kanji - Hiragana
+朝,あさ (morning)
+朝食,ちょうしょく (breakfast)
+昼,ひる (noon)
+昼食,ちゅうしょく (lunch)
+晩ごはん,ばんごはん (dinner)
+夜,よる (night)
+今夜,こんや (tonight)
+年,とし (age)
+来年,らいねん (next year)
+今,いま (now)
+今日,きょう (today)
+今月,こんげつ (this month)
+今年,ことし (this year)
+明るい,あかるい (bright)
+明日,あした (tomorrow)
+文明,ぶんめい (civilization)
+昨日,きのう (yesterday)
+昨年,さくねん (last year)
+去る,さる (to leave)
+去年,きょねん (last year)
+過去,かこ (past)
+毎日,まいにち (everyday)
+先週,せんしゅう (last week)
+分かる,わかる (to understand)
+分ける,わける (to divide)
+五分,ごふん (5 minutes)
+六分,ろっぷん (6 minutes)
+午前,ごぜん (a.m.)
+前,まえ (before/front)
+前後,ぜんご (before/after/front/rear/back/forth)
+後,あと (after/later)
+後ろ,うしろ (behind/back)
+午後,ごご (afternoon)
+後半,こうはん (the last half)
+半ば,なか (half/middle)
+五時半,ごじはん (half past five)
+
+
+============================================
+---> Kanji Set 2.3 - P47 english - hiragana
+to drink,のむ　（飲む）
+restaurant,いんしょくてん　（飲食店）
+to wear,きる　（着る）
+to arrive,つく　（着く）
+to arrive,とうちゃく　（到着する）
+to buy,かう　（買う）
+to buy and sell,ばいばい　（売買する）
+to look,みる　（見る）
+to visit/tour,けんがく　（見学する）
+to hear/to listen,聞く　（聞く）
+newspaper,しんぶん　（新聞）
+to read,よむ　（読む）
+to read books,どくしょ　（読書する）
+to speak,はなす　（話す）
+to call,でんわ　（電話する）
+to wait,まつ　（待つ）
+to invite,しょうたい　（招待する）
+to meet,あう　（会う）
+company,かいしゃ　（会社）
+to rest/to be absent,やすむ　（休む）
+holiday,きゅうじつ　（休日）
+to make/to produce,つくる　（作る）
+composition,さくぶん　（作文）
+to go/come back,かえる　（帰る）
+to return to one's home country,きこく　（帰国する）
+to know,しる　（知る）
+acquiantance,ちじん　（知人）
+to live,すむ　（住む）
+address,じゅうしょ　（住所）
+to think,おむう　（思う）
+thought/idea,しそう　（思想）
+
+
+---> Kanji Set 2.3 - P47 hiragana - kanji
+のむ,飲む (to drink)
+いんしょくてん,飲食店 (restaurant)
+きる,着る (to wear)
+つく,着く (to arrive)
+とうちゃく,到着する (to arrive)
+かう,買う (to buy)
+ばいばい,売買する (to buy and sell)
+みる,見る (to look)
+けんがく,見学する (to visit/tour)
+きく,聞く (to hear/to listen)
+しんぶん,新聞 (newspaper)
+よむ,読む (to read)
+どくしょ,読書する (to read books)
+はなす,話す (to speak)
+でんわ,電話する (to call)
+まつ,待つ (to wait)
+しょうたい,招待する (to invite)
+あう,会う (to meet)
+かいしゃ,会社 (company)
+やすむ,休む (to rest/to be absent)
+きゅうじつ,休日 (holiday)
+つくる,作る (to make/to produce)
+さくぶん,作文 (composition)
+かえる,帰る (to go/come back)
+きこく,帰国する (to return to one's home country)
+しる,知る (to know)
+ちじん,知人 (acquiantance)
+すむ,住む (to live)
+じゅうしょ,住所 (address)
+おむう,思う (to think)
+しそう,思想 (thought/idea)
+
+
+---> Kanji Set 2.3 - P47 kanji - hiragana
+飲む,のむ (to drink)
+飲食店,いんしょくてん (restaurant)
+着る,きる (to wear)
+着く,つく (to arrive)
+到着する,とうちゃく (to arrive)
+買う,かう (to buy)
+売買する,ばいばい (to buy and sell)
+見る,みる (to look)
+見学する,けんがく (to visit/tour)
+聞く,きく (to hear/to listen)
+新聞,しんぶん (newspaper)
+読む,よむ (to read)
+読書する,どくしょ (to read books)
+話す,はなす (to speak)
+電話する,でんわ (to call)
+待つ,まつ (to wait)
+招待する,しょうたい (to invite)
+会う,あう (to meet)
+会社,かいしゃ (company)
+休む,やすむ (to rest/to be absent)
+休日,きゅうじつ (holiday)
+作る,つくる (to make/to produce)
+作文,さくぶん (composition)
+帰る,かえる (to go/come back)
+帰国する,きこく (to return to one's home country)
+知る,しる (to know)
+知人,ちじん (acquiantance)
+住む,すむ (to live)
+住所,じゅうしょ (address)
+思う,おむう (to think)
+思想,しそう (thought/idea)
+
+
+
+============================================
+---> Kanji Set 2.1 - P43 English - Hiragana
+I,わたし　（私）
+private,しりつ　（市立）
+what,なに　（何）
+[particle],が　（何）
+to study,まなぶ　（学ぶ）
+student,がくせい　（学生）
+ahead,さき　（先）
+teacher,せんせい　（先生）
+school,がっこう　（学校）
+station,えき　（駅）
+house,いえ　（家）
+family,かぞく　（家族）
+bank,ぎんこう　（銀行）
+illness/disease,やまい　（病）
+illness/disease,びょうき　（病気）
+hospital,びょういん　（病院）
+to teach,おしえる　（教える）
+classroom,きょうしつ　（教室）
+~room,〜しつ　（〜室）
+telephone,でんわ　（電話）
+100 yen,ひゃくえん　（百円）
+country,くに　（国）
+one's homeland mother country,ぼこく　（母国）
+outside,そと　（外）
+foreign country,がいこく　（外国）
+inside,うち　（内）
+to guide/to show,あんない　（案内する）
+
+
+---> Kanji Set 2.1 - P43 Hiragana - Kanji
+わたし,私　(I)
+しりつ,市立　(private)
+なに,何　(what)
+が,何　([particle])
+まなぶ,学ぶ　(to study)
+がくせい,学生　(student)
+さき,先　(ahead)
+せんせい,先生　(teacher)
+がっこう,学校　(school)
+えき,駅　(station)
+いえ,家　(house)
+かぞく,家族　(family)
+ぎんこう,銀行　(bank)
+やまい,病　(illness/disease)
+びょうき,病気　(illness/disease)
+びょういん,病院　(hospital)
+おしえる,教える　(to teach)
+きょうしつ,教室　(classroom)
+〜しつ,〜室　(~room)
+でんわ,電話　(telephone)
+ひゃくえん,百円　(100 yen)
+くに,国　(country)
+ぼこく,母国　(one's homeland mother country)
+そと,外　(outside)
+がいこく,外国　(foreign country)
+うち,内　(inside)
+あんない,案内する　(to guide/to show)
+
+
+---> Kanji Set 2.1 - P43 Kanji - Hiragana
+私,わたし (I)
+市立,しりつ (private)
+何,なに (what)
+何,が ([particle])
+学ぶ,まなぶ (to study)
+学生,がくせい (student)
+先,さき (ahead)
+先生,せんせい (teacher)
+学校,がっこう (school)
+駅,えき (station)
+家,いえ (house)
+家族,かぞく (family)
+銀行,ぎんこう (bank)
+病,やまい (illness/disease)
+病気,びょうき (illness/disease)
+病院,びょういん (hospital)
+教える,おしえる (to teach)
+教室,きょうしつ (classroom)
+〜室,〜しつ (~room)
+電話,でんわ (telephone)
+百円,ひゃくえん (100 yen)
+国,くに (country)
+母国,ぼこく (one's homeland mother country)
+外,そと (outside)
+外国,がいこく (foreign country)
+内,うち (inside)
+案内する,あんない (to guide/to show)
+
+
+
+============================================
+L1 vocabulary - (English - Japanese)
+=============================================
+heavy,おもい　（重い）
+light,かるい　（軽い）
+dangerous,あぶない　（危ない）
+busy,いそがしい　（忙しい）
+sad,かなし　（悲しい）
+happy,うれしい　（嬉しい）
+enjoyable,たのしい　（楽しい）
+lonely,さびしい　（寂しい）
+painful,いたい　（痛い）
+free time,ひま　（暇）
+serious; dreadful; terrible; big,たいへん　（大変）
+sometime; someday,いつか
+next time; another time,こんど　（今度）
+passport,パスポート
+lighter,ライター
+nursery school,ほいくえん　（保育園）
+nursery school student,ほいくえんじ　（保育園児）
+kindergarten school,ようちえん　（幼稚園）
+kindergarten student,ようちえんじ　（幼稚園児）
+elementary school,しょうがっこう　（小学校）
+elementary school student,しょうがっくせい　（小学生）
+junior high school,ちゅうがっこう　（中学校）
+junior high school student,ちゅうがくせい　（中学生）
+high school,こうこう　（高校）
+high school student,こうこうせい　（高校生）
+university,だいがく　（大学）
+university student,だいがくせい　（大学生）
+graduate school,だいがくいん　（大学院）
+graduate school student,だいがくいんせい　（大学院生）
+prep school,よびこう　（予備校）
+prep school student,よびこうせい　（予備校生）
+sound,おと　（音）
+music,おんがく　（音楽）
+voice,こえ　（声）
+cry (e.g. baby; animal),なきごえ　（泣き声）
+to decide,きめる　（決める）
+to put (on lower body; pants; socks; shoes),はく・はきます　（履く）
+to think,おもう　（思う）
+to need,いる・いちます　（要る）
+to be seen,みえる　（見える）
+to be heard; to hear,きこえる　（聞こえる）
+to be open,あく・あきます　（開く）
+to be shut; to be closed,しまる・しまります　（閉まる）
+to be on (electrical),つく　（点く）
+to be off (electrical),きえる　（消える）
+
+
+L1 vocabulary - (Kanji - Hiragana)
+=============================================
+重い,heavy （おもい)
+軽い,light （かるい)
+危ない,dangerous （あぶない)
+忙しい,busy （いそがしい)
+悲しい,sad （かなし)
+嬉しい,happy （うれしい)
+楽しい,enjoyable （たのしい)
+寂しい,lonely （さびしい)
+痛い,painful （いたい)
+暇,free time （ひま)
+大変,serious; dreadful; terrible; big （たいへん)
+いつか, sometime; someday
+今度,next time; another time （こんど)
+パスポート,sometime; someday
+ライター,lighter
+保育園,nursery school （ほいくえん)
+保育園児,nursery school student （ほいくえんじ)
+幼稚園,kindergarten school （ようちえん)
+幼稚園児,kindergarten student （ようちえんじ)
+小学校,elementary school （しょうがっこう)
+小学生,elementary school student （しょうがっくせい)
+中学校,junior high school （ちゅうがっこう)
+中学生,junior high school student （ちゅうがくせい)
+高校,high school （こうこう)
+高校生,high school student （こうこうせい)
+大学,university （だいがく)
+大学生,university student （だいがくせい)
+大学院,graduate school （だいがくいん)
+大学院生,graduate school student （だいがくいんせい)
+予備校,prep school （よびこう)
+予備校生,prep school student （よびこうせい)
+音,sound （おと)
+音楽,music （おんがく)
+声,voice （こえ)
+泣き声,cry (e.g. baby; animal) （なきごえ)
+決める,to decide （きめる)
+履く,to put (on lower body; pants; socks; shoes) （はく・はきます)
+思う,to think （おもう)
+要る,to need （いる・いちます)
+見える,to be seen （みえる)
+聞こえる,to be heard; to hear （きこえる)
+開く,to be open （あく・あきます)
+閉まる,to be shut; to be closed （しまる・しまります)
+点く,to be on (electrical) （つく)
+消える,to be off (electrical) （きえる)
+
+
+========================================================================================
+TO-DO: =================================================================================
+========================================================================================
+
+L2 vocabulary - (English - Japanese)
+=============================================
+an N-storey building​、かいだて　（階建て）
+first floor; ground floor、いっかい　（１階）
+what floor?、なんかい　（何階）
+apartment building、アパート
+condominium; apartment building、マンション
+basement; cellar; underground place、ちか　（地下）
+rooftop​、おくじょう　（屋上）
+stairs; stairway; staircase、かいだん　（階段）
+emergency exit、ひじょうぐち　（非常口）
+building、たてもの　（建物）
+pattern; design、がら　（柄）
+price; cost、ねだん　（値段）
+size、サイズ
+moustache; beard; whiskers、ひげ　（髭）
+Japanese bar、いざかや　（居酒屋）
+guest; customer; spectator; tourist; passenger​;、おきゃくさん　（お客さん）
+drunkard、よっぱらい　（酔っ払い）
+menu、メニュー
+draft beer、なまビール　（生ビール）
+large-size mug、だいじゅっき　（大ジョッキ）
+medium beer mug、ちゅうジョッキ　（中ジョッキ）
+table​、テーブル
+tatami room、おざしき　（お座敷）
+zabuton、ざぶとん　（座布団）
+tatami mat、たたみ　（畳）
+、でんびょう　（）
+(cash) register​、レジ
+receipt; cash-register slip、レシート
+hand-written receipt、りょうしゅうしょ　（領収書）
+neighborhood、きんじょ　（近所）
+karaoke、カラオケ　（空オケ）
+concert; recital、おんがくかい　（音楽会）
+song​、うた　（歌）
+piano、ピアノ
+near、ちか　（近く）
+far away; distant、とお　（遠く）
+toilet; restroom、トイレ
+toilet; restroom、おてあらい　（お手洗い
+toilet; restroom、けしょうしつ　（化粧室）
+for use by women、じょせいよう　（女性用）
+for use by men、だんせいよう　（男性用）
+for use by adults; for adults、おとなよう　（大人用）
+
+
+
+
+=============================================
+---> Kanji Set 2.x
+私,わたし (I)
+学生,がくせい (student)
+何,が ([particle])
+大学,だいがく　(university; college)
+先生,せんせい (teacher)
+学校,がっこう (school)
+駅,えき (station)
+家,いえ (house)
+銀行,ぎんこう (bank)
+病気,びょうき (illness/disease)
+病院,びょういん (hospital)
+教,おし
+教室,きょうしつ (classroom)
+電話,でんわ (telephone)
+百円,ひゃくえん (100 yen)
+千円,せんえん (1000 yen)
+国,くに (country)
+外国,がいこく (foreign country)
+国内、こくない　(internal; domestic)
+朝,あさ (morning)
+昼,ひる (noon)
+晩,ばん
+夜,よる (night)
+年,ねん (age;years old)
+今日,きょう (today)
+明日,あした (tomorrow)
+昨日,きのう (yesterday)
+去年,きょねん (last year)
+毎日,まいにち (everyday)
+今週,こんしゅう
+五分,ごふん (5 minutes)
+午前,ごぜん (a.m.)
+前,まえ (before/front)
+後,あと (after/later)
+後ろ,うしろ (behind/back)
+午後,ごご (afternoon)
+後半,こうはん (the last half)
+半ば,なか (half/middle)
+五時半,ごじはん (half past five)
+飲,の
+着,き
+買,か
+見,み
+聞,き
+読,よ
+話,はな
+待,ま
+会,あ
+休,や
+作,つく
+帰,かえ
+知,し
+住,す
+思,おむ
+
+
+---> Kanji Set 2.1 - p
+=============================================
+---> Kanji Set 2.2 - p
+=============================================
+---> Kanji Set 2.3 - p
+=============================================
+---> Kanji Set 2.4 - p30
+=============================================
+早い、はやい（early）
+早朝、そうちょう　（early morning）
+早退する、そうたいする　（to leave early）
+春、はる　（spring）
+春休み、はるやすみ　（spring break）
+春夏秋冬、しゅんかしゅうとう　（the four seasons）
+春分の日、しゅんぶのび　（the Vernal Equinox）
+晴れ、はれ　（sunny weather）
+晴れる、はれる　（to clear up）
+晴天、せいてん　（fine weather）
+快晴、かいせい　（clear and sunny）
+暑い、あつい　（hot weather）
+残暑、ざんしょ　（the late summer heat）
+猛暑、もうしょ　（intense heat）
+暖かい、あたたかい　（warm weather）
+暖房、だんぼん　（indoor　heating）
+暖冬、だんとう　（mild winter）
+暗い、くらい　（dark）
+暗記する、あんきする　（to memorize）
+日曜日、にちようび　（Sunday）
+何曜日、なんようび　（what day of the week?）
+
+---> Kanji Set 2.5 - p
+=============================================
+---> Kanji Set 2.6 - p32
+=============================================
+開く、　あく　（it opens）
+開ける、開ける　（to open it）
+開らく、ひらく　（to open）
+開店、かいてん　（to open）
+開始する、かいしする　（to begin）
+閉まる、しまる　（it closes）
+閉める、しめる　（to close it）
+閉じる、とじる　（to close）
+閉じる、へいてん　（to close）
+間に合う、まいあう　（be on time）
+時間、じかん　（time）
+一年間、いちねんかん　（for one year）
+人間、にんげん　（human being）
+質問する、しつもんする　（to ask a question）
+日本語、にほんご　（Japanese Language）
+外国語、がいこくご　（foreign language）
+二課、にか　（lesson 2）
+申し訳ありません、もうしわけありません　（I am sorry）
+通訳、つうやく　（interpreter）
+日記、にっき　（diary）
+記念、きねん　（commemoration）
+
+
