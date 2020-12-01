@@ -87,6 +87,13 @@
           .kanji {
             font-size: 6em;
           }
+          .controls {
+            margin: 20px auto;
+            text-align: center;
+          }
+          .controls input {
+            margin: 5px 10px 5px 0px;
+          }
 
         </style>
     </head>
@@ -343,6 +350,13 @@
             </div>
           </figure>
         </section>
+        <section>
+          <div class="controls autoplaySpeed">
+            <input type="text" name="input-autoplaySpeed" value="5000" /><button class="btn-autoplaySpeed">update</button>
+            <br />
+            <em>default: (5000 ms)</em>
+          </div>
+        </section>
       </main>
       <footer><small>made with <a href="http://kenwheeler.github.io/slick/">Slick</a></small></footer>
 
@@ -351,16 +365,21 @@
       <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
       <script type="text/javascript">
         $(document).ready(function(){
-          $('.main-content').slick({
+          window.xSlick = $('.main-content').slick({
             slidesToShow: 1,
             slidesToScroll: 1,
             infinite: true,
             autoplay: true,
-            autoplaySpeed: 5000,
+            autoplaySpeed: 1500,
             centerMode: true,
             speed: 300,
             fade: true,
             cssEase: 'linear'
+          });
+          $('.btn-autoplaySpeed').on('click', function(){
+            var func = window.xSlick.setSlickOption;
+            if(func)
+            window.xSlick.setSlickOption({autoplaySpeed: 1500});
           });
         });
       </script>
