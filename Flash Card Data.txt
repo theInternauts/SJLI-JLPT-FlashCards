@@ -608,12 +608,112 @@ for use by adults; for adults、おとなよう　（大人用）
 思,おむ
 
 
----> Kanji Set 2.1 - p
+---> Kanji Set 2.1 - p43
 =============================================
----> Kanji Set 2.2 - p
+私,わたし (I)
+市立,しりつ (private)
+何,なに (what)
+何,が ([particle])
+学ぶ,まなぶ (to study)
+学生,がくせい (student)
+先,さき (ahead)
+先生,せんせい (teacher)
+学校,がっこう (school)
+駅,えき (station)
+家,いえ (house)
+家族,かぞく (family)
+銀行,ぎんこう (bank)
+病,やまい (illness/disease)
+病気,びょうき (illness/disease)
+病院,びょういん (hospital)
+教える,おしえる (to teach)
+教室,きょうしつ (classroom)
+〜室,〜しつ (~room)
+電話,でんわ (telephone)
+百円,ひゃくえん (100 yen)
+国,くに (country)
+母国,ぼこく (one's homeland mother country)
+外,そと (outside)
+外国,がいこく (foreign country)
+内,うち (inside)
+案内する,あんない (to guide/to show)
+
+
+---> Kanji Set 2.2 - p45
 =============================================
----> Kanji Set 2.3 - p
+朝,あさ (morning)
+朝食,ちょうしょく (breakfast)
+昼,ひる (noon)
+昼食,ちゅうしょく (lunch)
+晩ごはん,ばんごはん (dinner)
+夜,よる (night)
+今夜,こんや (tonight)
+年,とし (age)
+来年,らいねん (next year)
+今,いま (now)
+今日,きょう (today)
+今月,こんげつ (this month)
+今年,ことし (this year)
+明るい,あかるい (bright)
+明日,あした (tomorrow)
+文明,ぶんめい (civilization)
+昨日,きのう (yesterday)
+昨年,さくねん (last year)
+去る,さる (to leave)
+去年,きょねん (last year)
+過去,かこ (past)
+毎日,まいにち (everyday)
+先週,せんしゅう (last week)
+分かる,わかる (to understand)
+分ける,わける (to divide)
+五分,ごふん (5 minutes)
+六分,ろっぷん (6 minutes)
+午前,ごぜん (a.m.)
+前,まえ (before/front)
+前後,ぜんご (before/after/front/rear/back/forth)
+後,あと (after/later)
+後ろ,うしろ (behind/back)
+午後,ごご (afternoon)
+後半,こうはん (the last half)
+半ば,なか (half/middle)
+五時半,ごじはん (half past five)
+
+
+---> Kanji Set 2.3 - p47
 =============================================
+飲む,のむ (to drink)
+飲食店,いんしょくてん (restaurant)
+着る,きる (to wear)
+着く,つく (to arrive)
+到着する,とうちゃく (to arrive)
+買う,かう (to buy)
+売買する,ばいばい (to buy and sell)
+見る,みる (to look)
+見学する,けんがく (to visit/tour)
+聞く,きく (to hear/to listen)
+新聞,しんぶん (newspaper)
+読む,よむ (to read)
+読書する,どくしょ (to read books)
+話す,はなす (to speak)
+電話する,でんわ (to call)
+待つ,まつ (to wait)
+招待する,しょうたい (to invite)
+会う,あう (to meet)
+会社,かいしゃ (company)
+休む,やすむ (to rest/to be absent)
+休日,きゅうじつ (holiday)
+作る,つくる (to make/to produce)
+作文,さくぶん (composition)
+帰る,かえる (to go/come back)
+帰国する,きこく (to return to one's home country)
+知る,しる (to know)
+知人,ちじん (acquiantance)
+住む,すむ (to live)
+住所,じゅうしょ (address)
+思う,おむう (to think)
+思想,しそう (thought/idea)
+
+
 ---> Kanji Set 2.4 - p30
 =============================================
 早い、はやい（early）
@@ -638,8 +738,11 @@ for use by adults; for adults、おとなよう　（大人用）
 日曜日、にちようび　（Sunday）
 何曜日、なんようび　（what day of the week?）
 
----> Kanji Set 2.5 - p
+---> Kanji Set 2.5 - p31
 =============================================
+
+
+
 ---> Kanji Set 2.6 - p32
 =============================================
 開く、　あく　（it opens）
@@ -665,3 +768,84 @@ for use by adults; for adults、おとなよう　（大人用）
 記念、きねん　（commemoration）
 
 
+---> Coto N5 JLPT Kanji
+=============================================
+土, ド / ト / つち  soil; earth; ground; Turkey
+山, サン / セン / やま  mountain
+先, セン / さき / ま.ず before; ahead; previous; future; precedence
+三, サン / ゾウ / み / み.つ / みっ.つ  three
+四, シ / よ / よ.つ / よっ.つ / よん four
+来, ライ / タイ / く.る / きた.る / きた.す / き.たす / き.たる / き / こ come; due; next; cause; become
+語, ゴ / かた.る / かた.らう  word; speech; language
+七, シチ / なな / なな.つ / なの seven
+日, ニチ / ジツ / ひ / ~び / ~か day; sun; Japan; counter for days
+火, カ / ひ / ~び / ほ~ fire
+下, カ / ゲ / した / しも / もと / さ.げる / さ.がる / くだ.る / くだ.り / くだ.す / ~くだ.す / くだ.さる / お.ろす / お.りる below; down; descend; give; low; inferior
+話, ワ / はな.す / はなし  tale; talk
+学, ガク / まな.ぶ study; learning; science
+八, ハチ / や / や.つ / やっ.つ / よう  eight; eight radical (no. 12)
+長, チョウ / なが.い / おさ long; leader; superior; senior
+半, ハン / なか.ば half; middle; odd number; semi-; part-
+気, キ / ケ / いき  spirit; mind; air; atmosphere; mood
+時, ジ / とき / ~どき  time; hour
+今, コン / キン / いま  now
+後, ゴ / コウ / のち / うし.ろ / うしろ / あと / おく.れる behind; back; later
+天, テン / あまつ / あめ / あま~ heavens; sky; imperial
+名, メイ / ミョウ / な / ~な name; noted; distinguished; reputation
+校, コウ / キョウ  exam; school; printing; proof; correction
+上, ジョウ / ショウ / シャン / うえ / ~うえ / うわ~ / かみ / あ.げる / ~あ.げる / あ.がる / ~あ.がる / あ.がり / ~あ.がり / のぼ.る / のぼ.り / のぼ.せる / のぼ.す / たてまつ.る  above; up
+前, ゼン / まえ / ~まえ in front; before
+小, ショウ / ちい.さい / こ~ / お~ / さ~  little; small
+読, ドク / トク / トウ / よ.む / ~よ.み read
+五, ゴ / いつ / いつ.つ five
+川, セン / かわ stream; river; river or three-stroke river radical (no. 47)
+母, ボ / はは / も  mother
+水, スイ / みず / みず~ water
+金, キン / コン / ゴン / かね / かな~ / ~がね gold
+休, キュウ / やす.む / やす.まる / やす.める  rest; day off; retire; sleep
+年, ネン / とし year; counter for years
+外, ガイ / ゲ / そと / ほか / はず.す / はず.れる / と~  outside
+国, コク / くに country
+友, ユウ / とも friend
+出, シュツ / スイ / で.る / ~で / だ.す / ~だ.す / い.でる / い.だす  exit; leave; go out; come out; put out; protrude
+毎, マイ / ごと / ~ごと.に every
+車, シャ / くるま  car
+午, ゴ / うま  noon; sign of the horse; 11AM-1PM; seventh sign of Chinese zodiac
+聞, ブン / モン / き.く / き.こえる hear; ask; listen
+月, ゲツ / ガツ / つき  month; moon
+書, ショ / か.く / ~が.き / ~がき write
+父, フ / ちち  father
+西, セイ / サイ / ス / にし  west; Spain
+高, コウ / たか.い / たか / ~だか / たか.まる / たか.める  tall; high; expensive
+本, ホン / もと book; present; main; origin; true; real; counter for long cylindrical things
+二, ニ / ジ / ふた / ふた.つ / ふたたび  two; two radical (no. 7)
+何, カ / なに / なん / なに~ / なん~ what
+人, ジン / ニン / ひと / ~り / ~と  person
+大, ダイ / タイ / おお~ / おお.きい / ~おお.いに  large; big
+雨, ウ / あめ / あま~ / ~さめ  rain
+男, ダン / ナン / おとこ / お male
+行, コウ / ギョウ / アン / い.く / ゆ.く / ~ゆ.き / ~ゆき / ~い.き / ~いき / おこな.う / おこ.なう going; journey; carry out; conduct; act; line; row; bank
+間, カン / ケン / あいだ / ま / あい  interval; space
+六, ロク / リク / む / む.つ / むっ.つ / むい six
+千, セン / ち  thousand
+中, チュウ / なか / うち / あた.る  in; inside; middle; mean; center
+生, セイ / ショウ / い.きる / い.かす / い.ける / う.まれる / うま.れる / う.まれ / うまれ / う.む / お.う / は.える / は.やす / き / なま / なま~ / な.る / な.す / む.す / ~う  life; genuine; birth
+百, ヒャク / ビャク / もも  hundred
+円, エン / まる.い / まる / まど / まど.か / まろ.やか  circle; yen; round
+北, ホク / きた north
+十, ジュウ / ジッ / ジュッ / とお / と ten
+子, シ / ス / ツ / こ / ~こ / ね  child; sign of the rat; 11PM-1AM; first sign of Chinese zodiac
+見, ケン / み.る / み.える / み.せる  see; hopes; chances; idea; opinion; look at; visible
+電, デン  electricity
+右, ウ / ユウ / みぎ right
+女, ジョ / ニョ / ニョウ / おんな / め woman; female
+一, イチ / イツ / ひと~ / ひと.つ  one; one radical (no.1)
+左, サ / シャ / ひだり  left
+東, トウ / ひがし  east
+万, マン / バン / よろず ten thousand; 10,000
+南, ナン / ナ / みなみ  south
+木, ボク / モク / き / こ~  tree; wood
+九, キュウ / ク / ここの / ここの.つ nine
+食, ショク / ジキ / く.う / く.らう / た.べる / は.む  eat; food
+入, ニュウ / ジュ / い.る / ~い.る / ~い.り / い.れる / ~い.れ / はい.る enter; insert
+白, ハク / ビャク / しろ / しら~ / しろ.い  white
